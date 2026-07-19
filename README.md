@@ -1,1 +1,1 @@
-[![Open In Colab](https://google.com)](https://google.com)
+[Day1.ipynb](https://colab.research.google.com/github/ilhamM5/AI-Academy-KAUST-Week2/blob/main/W2D1_lab_explore_iris.ipynb)  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/ilhamM5/AI-Academy-KAUST-Week2/blob/main/W2D1_lab_explore_iris.ipynb)
